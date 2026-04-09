@@ -4,11 +4,11 @@ Dataset used:
 https://www.unb.ca/cic/datasets/dns-2021.html
 Raw-20240207T040928Z-001.zip
 
-Raw-20240207T040928Z-001/
-    ├── CSV_benign.csv
-    ├── CSV_malware.csv
-    ├── CSV_phishing.csv
-    └── CSV_spam.csv
+    Raw-20240207T040928Z-001/
+        ├── CSV_benign.csv
+        ├── CSV_malware.csv
+        ├── CSV_phishing.csv
+        └── CSV_spam.csv
 
 Processed by
     cleaning.ipynb
